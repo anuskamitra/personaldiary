@@ -1,0 +1,48 @@
+
+.dailyThings{
+    background: #fff;
+    border-radius: 7px;
+    box-shadow: 0 2px 5px #ccc;
+    padding: 10px;
+    width: 80%;
+    height:20%;
+    margin: 16px;
+    word-wrap: break-word;
+    white-space: nowrap; 
+    overflow: hidden;
+    text-overflow: ellipsis; 
+    font-size: 24px;
+    position:relative;
+
+   
+  }
+  .dailyThingsShowFull{
+    background: #fff;
+    border-radius: 7px;
+    box-shadow: 0 2px 5px #ccc;
+    /* padding: 14px; */
+    width: 80%;
+    height:20%;
+    margin: 16px;
+    word-wrap: break-word;
+    font-size: 24px;
+    position:relative;
+    
+  }
+  .timeAndDate{
+    color:#858282;
+    font-size: 15px;
+  }
+  .continue{
+    color:#858282;
+    font-size: 15px;
+  font-weight: 300;
+  cursor: pointer;
+  float:right;
+  padding-top: 5px;
+  padding-right:10px ;
+  margin-top: 10px;
+  position:absolute;
+  bottom:0;
+  right:0;
+  }
